@@ -22,11 +22,11 @@ Computer view
 
 Mobile view
 
-![Screenshot 3](./cap3.png)
+![Screenshot 3](./cap4.png)
 
 Computer active states
 
-![Screenshot 4](./cap4.png)
+![Screenshot 4](./cap3.png)
 
 Mobile active states
 
