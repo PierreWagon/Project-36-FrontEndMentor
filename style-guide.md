@@ -1,4 +1,4 @@
-# Front-end Style Guide 
+# Front-end Style Guide
 
 ## Layout
 
@@ -13,6 +13,7 @@ The designs were created to the following widths:
 
 - Soft Blue: hsl(231, 69%, 60%)
 - Soft Red: hsl(0, 94%, 66%)
+  [MICHAEL ADEBAMBO](HELLO)
 
 ### Neutral
 
