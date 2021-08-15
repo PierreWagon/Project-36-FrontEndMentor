@@ -1,5 +1,4 @@
 # Frontend Mentor - Bookmark landing page solution
-  
 
 ### The challenge
 
@@ -10,7 +9,6 @@ Users should be able to:
 - Receive an error message when the newsletter form is submitted if:
   - The input field is empty
   - The email address is not formatted correctly
-
 
 ### Screenshot
 
@@ -34,14 +32,12 @@ Mobile active states
 
 Mobile menu
 
-
 ### Built with
 
 - HTML5
 - CSS
 - Javascript
 - Flexbox
-
 
 ### What I learned
 
